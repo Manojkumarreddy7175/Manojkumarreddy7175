@@ -1,25 +1,75 @@
-Hi there 👋, I'm Manoj Kumar Reddy Koduru!
-🚀 Developer | AI Enthusiast | Software Engineer
+<h1 align="center">Hi 👋, I'm Manoj Kumar Reddy Koduru</h1>
 
-I'm passionate about AI, Web Development, and Software Engineering. I love working on AI-integrated projects, optimizing algorithms, and designing elegant UIs. Currently, I'm pursuing an Integrated MTech at VIT AP University.
+<p align="center">
+🚀 Developer | AI Enthusiast | Software Engineer  
+</p>
 
-🔭 Current Projects
-AI House 🏠 - A centralized platform for AI tools.
-Interactive File Query GPT 🤖 - AI-powered file search system.
-Movie Recommendation Site 🎬 - AI-based personalized movie suggestions.
-Email Registration (Java GUI) 📧 - Java project for GUI-based email registration.
-🌱 Currently Learning
-System Design & OOPs Concepts
-Advanced Data Structures & Trees
-C/C++, C#.NET & Python
-Operating Systems & Software Engineering
-💡 Looking to Collaborate On
-AI-integrated projects 🧠
-Web applications using Java, Python, and PHP 🌍
-Open-source contributions 📂
-📫 Connect with Me
-LinkedIn: [linkedin.com/in/manojkumarreddy](https://www.linkedin.com/in/manojkumarreddy7175/)
-GitHub: github.com/Manojkumarreddy7175
-Email: manojkumarreddy7175@gmail.com
-⚡ Fun Fact
-I enjoy exploring the latest AI models, working on cryptography projects, and designing interactive UIs! 🎨
+<p align="center">
+Passionate about AI, Web Development, and Software Engineering. I love working on 
+AI-integrated projects, optimizing algorithms, and designing elegant UIs. Currently, 
+I'm pursuing an <strong>Integrated MTech at VIT AP University</strong> and building innovative AI solutions.
+</p>
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=Manojkumarreddy7175&label=Profile%20views&color=0e75b6&style=flat" alt="Profile Views" /> 
+</p>
+
+---
+
+## 🚀 About Me  
+🔹 **Currently Working On:**  
+- 🎭 **Celebrity Outfit Finder** – Find outfit links of celebrities from movies and offline appearances.  
+- 🎵 **Music Finder** – Discover songs and tracks effortlessly.  
+
+🔹 **Looking to Collaborate On:**  
+- 🤖 AI & Machine Learning Projects  
+- 🌐 Web Development & UI/UX Design  
+- 💻 Open Source Contributions  
+
+🔹 **How to Reach Me:**  
+📧 **Email:** [manojkumarreddy7175@gmail.com](mailto:manojkumarreddy7175@gmail.com)  
+
+
+💡 **Fun Fact:** I love exploring AI innovations, working on cryptography projects, and designing interactive UIs! 🚀  
+
+---
+
+## 🌐 Connect with Me  
+
+<p align="center">
+<a href="https://linkedin.com/in/manojkumarreddy7175" target="_blank">
+  <img src="https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=linkedin" alt="LinkedIn" />
+</a>
+<a href="https://github.com/Manojkumarreddy7175" target="_blank">
+  <img src="https://img.shields.io/badge/-GitHub-black?style=flat-square&logo=github" alt="GitHub" />
+</a>
+</p>
+
+---
+
+## 🛠️ Languages & Tools  
+
+<p align="center"> 
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" alt="Java" width="40" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" alt="Python" width="40" height="40"/> 
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" alt="JavaScript" width="40" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" alt="PHP" width="40" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" alt="HTML" width="40" height="40"/> 
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" alt="CSS" width="40" height="40"/> 
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" alt="MySQL" width="40" height="40"/>
+</p>
+
+---
+
+## 📊 GitHub Stats  
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Manojkumarreddy7175&show_icons=true&theme=radical" alt="Manoj's GitHub stats" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Manojkumarreddy7175&layout=compact&theme=radical" alt="Top Languages" />
+</p>
+
+---
+
