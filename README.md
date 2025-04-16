@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Manoj Kumar Reddy Koduru</h1>
+<h1 align="center">Hi 👋, I'm Manoj Kumar Reddy</h1>
 
 <p align="center">
 🚀 Developer | AI Enthusiast | Software Engineer  
@@ -61,15 +61,4 @@ I'm pursuing an <strong>Integrated MTech at VIT AP University</strong> and build
 
 ---
 
-## 📊 GitHub Stats  
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Manojkumarreddy7175&show_icons=true&theme=radical" alt="Manoj's GitHub stats" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Manojkumarreddy7175&layout=compact&theme=radical" alt="Top Languages" />
-</p>
-
----
 
