@@ -40,9 +40,7 @@ I'm pursuing an <strong>Integrated MTech at VIT AP University</strong> and build
 <a href="https://linkedin.com/in/manojkumarreddy7175" target="_blank">
   <img src="https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=linkedin" alt="LinkedIn" />
 </a>
-<a href="https://github.com/Manojkumarreddy7175" target="_blank">
-  <img src="https://img.shields.io/badge/-GitHub-black?style=flat-square&logo=github" alt="GitHub" />
-</a>
+
 </p>
 
 ---
