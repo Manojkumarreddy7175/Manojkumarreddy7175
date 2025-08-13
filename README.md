@@ -16,10 +16,7 @@ I'm pursuing an <strong>Integrated MTech at VIT AP University</strong> and build
 
 ---
 
-## 🚀 About Me  
-🔹 **Currently Working On:**  
-- 🎭 **Celebrity Outfit Finder** – Find outfit links of celebrities from movies and offline appearances.  
-- 🎵 **Music Finder** – Discover songs and tracks effortlessly.  
+## 🚀 About Me  .  
 
 🔹 **Looking to Collaborate On:**  
 - 🤖 AI & Machine Learning Projects  
