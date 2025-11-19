@@ -10,9 +10,9 @@ AI-integrated projects, optimizing algorithms, and designing elegant UIs. Curren
 I'm pursuing an <strong>Integrated MTech at VIT AP University</strong> and building innovative AI solutions.
 </p>
 
-<p align="center">
+<!-- <p align="center">
   <img src="https://komarev.com/ghpvc/?username=Manojkumarreddy7175&label=Profile%20views&color=0e75b6&style=flat" alt="Profile Views" /> 
-</p>
+</p> -->
 
 ---
 
