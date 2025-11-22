@@ -215,38 +215,7 @@ hobbies:
 
 </div>
 
-```ascii
-╔══════════════════════════════════════════════════════════════════╗
-║                    MISSION CONTROL 2025                          ║
-╠══════════════════════════════════════════════════════════════════╣
-║                                                                  ║
-║  [████████████████████] 100%  Building AI-Powered Web Apps      ║
-║  [██████████████░░░░░░]  70%  Contributing to Open Source       ║
-║  [████████████░░░░░░░░]  60%  Learning Kubernetes & DevOps      ║
-║  [███████████████████░]  95%  Mastering System Design           ║
-║  [░░░░░░░░░░░░░░░░░░░░]   0%  Sleep Schedule - deprecated       ║
-║                                                                  ║
-║  ACTIVE PROJECTS:                                                ║
-║     → AI SaaS Platform - Next.js + OpenAI                       ║
-║     → Real-time Analytics Dashboard - React + Socket.io         ║
-║     → Blockchain Voting System - Solidity + Web3                ║
-║     → Mobile App - React Native + Firebase                      ║
-║                                                                  ║
-║  CURRENTLY LEARNING:                                             ║
-║     • Advanced TypeScript Patterns                              ║
-║     • Microservices Architecture                                ║
-║     • Machine Learning at Scale                                 ║
-║     • Cloud Native Development                                  ║
-║                                                                  ║
-║  COFFEE CONSUMED TODAY: ████████ Too Much                       ║
-║  BUGS FIXED: 42 and counting                                    ║
-║  IDEAS IMPLEMENTED: 15                                           ║
-║  COMMITS THIS WEEK: Probably too many                            ║
-║                                                                  ║
-╚══════════════════════════════════════════════════════════════════╝
-```
 
----
 
 <div align="center">
 
